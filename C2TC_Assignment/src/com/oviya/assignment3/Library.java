@@ -4,15 +4,18 @@ import java.util.ArrayList;
 
 class Library {
     private ArrayList<Item> items;
-
+    
+    //constructor to initialize collection (ArrayList)
     Library() {
         items = new ArrayList<>();
     }
-
+    
+    // Add items into the collection
     void addItem(Item item) {
         items.add(item);
     }
-
+    
+    // Show all items in the collection
     void showAllItems() {
         System.out.println("Library contains:");
         for (Item item : items) {

@@ -6,12 +6,13 @@ package com.oviya.assignment3;
 class Item {
  int id;
  String title;
-
+ //Constructor 
  Item(int id, String title) {
      this.id = id;
      this.title = title;
  }
-
+ 
+ //To display Item info
  void displayInfo() {
      System.out.println("ID: " + id + ", Title: " + title);
  }
