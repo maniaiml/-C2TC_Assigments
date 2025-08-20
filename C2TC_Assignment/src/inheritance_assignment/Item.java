@@ -1,4 +1,4 @@
-package com.oviya.assignment3;
+package inheritance_assignment;
 
 //Part A – Inheritance (is-a relationship)
 

@@ -1,4 +1,4 @@
-package com.oviya.assignment3;
+package inheritance_assignment;
 
 //Subclass Book
 class Book extends Item {

@@ -1,4 +1,4 @@
-package com.oviya.assignment3;
+package inheritance_assignment;
 
 public class Main {
     public static void main(String[] args) {

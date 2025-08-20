@@ -1,4 +1,4 @@
-package com.oviya.assignment3;
+package inheritance_assignment;
 
 //Subclass Magazine
 class Magazine extends Item {
